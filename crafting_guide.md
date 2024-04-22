@@ -1,0 +1,231 @@
+KC's Game Guides - Crafting Guide
+==============
+
+***Everything you need to know to about crafting in The Six Dragons***
+
+**Author:** KC
+
+
+- [KC's Game Guides - Crafting Guide](#kcs-game-guides---crafting-guide)
+- [Introduction](#introduction)
+- [Recipes, not patterns](#recipes-not-patterns)
+- [Crafting An Off Chain Recipe](#crafting-an-off-chain-recipe)
+- [Crafting A Blockchain Recipe](#crafting-a-blockchain-recipe)
+- [Refined Items](#refined-items)
+- [Enchants](#enchants)
+- [Critical Crafts](#critical-crafts)
+- [Item Trader](#item-trader)
+- [Moving A Recipe from OC to BC](#moving-a-recipe-from-oc-to-bc)
+- [Listing A Recipe on The Blacksmith](#listing-a-recipe-on-the-blacksmith)
+- [Cooking](#cooking)
+
+
+# Introduction
+
+Crafting is often a complex topic in gaming, but it gets even more complex when you add the crypto element. Crypto and NFT's are also what makes this game unique and creates the potential to be profitable for the crypto gamer. At a minimum you have the opportunity to earn back much of your initial investment, as you can always sell the items you purchased when you are finished with them. For the dedicated crafter, the potential for earning is much greater. 
+
+Creating, selling and trading NFT's is one of the primary components of crypto gaming. The game itself, while fun and entertaining, isn't nearly as complex as the non-crypto competitors in the fantasy genre. It's really the crypto aspect that sets this game apart and brings a different level of challenge and entertainment to the gamer. This guide will tell you everything you need to know to master the basics of crafting in The Six Dragons.
+
+[Back to top](#kcs-game-guides---crafting-guide)
+
+# Recipes, not patterns
+
+Before you start crafting, be sure you have a recipe and the necessary materials. People often get recipes confused with patterns. 
+
+Patterns are one of many materials required to craft an item. However, you can’t craft anything until you have a **recipe** which lists all the materials needed to craft the item.  Recipe drops are extremely rare.
+
+![recipe example](./images/images_crafting_guide/recipe_example.jpg "Recipe example in inventory")
+![recipe details](./images/images_crafting_guide/recipe_example_details.jpg "Recipe details")
+
+Patterns on the other hand are an extremely common drop. This is good because all the recipes require multiple patterns for each use.
+
+![pattern example](./images/images_crafting_guide/pattern_example.jpg "Pattern example in inventory")
+![pattern details](./images/images_crafting_guide/pattern_example_details.jpg "Pattern details")
+
+Recipes are not unique. If you loot a recipe for level 1 uncommon cotton leggings, you can be sure several other players have looted the same recipe. 
+There are several ways to get a recipe. 
+1. You can loot one.
+2. You can buy one at the in-game multiplayer marketplace.
+3. You can buy one from a site that brokers NFT's like Enjin's [nft.io](https://nft.io). 
+4. You can pay to rent a recipe from another player for a single time use.
+
+[Back to top](#kcs-game-guides---crafting-guide)
+
+# Crafting An Off Chain Recipe
+A basic OC craft isn't very complex. There is even a quest in the town of Aligren that will help you get started. I recommend you do this quest as the item you craft will be better than the one you start out with. The quest is nice because you get a single use recipe and you don't have to wait until you loot or buy a recipe. 
+The basic steps are as follows:
+1. Get a recipe.
+2. Gather the necessary materials.
+3. Go to the the Blacksmith's Forge in any town and use it by pressing "F".
+
+![Blacksmith's Forge](./images/images_crafting_guide/blacksmiths_forge_oc.jpg "Blacksmith's Forge in Aligren")
+
+4. Select the recipe you want to craft. The game will confirm you have the necessary materials. If you don't have enough of any ingredient, it will show as red and not green.
+
+![cotton helmet ingredients](./images/images_crafting_guide/cotton_helmet_ingredients.jpg "Cotton helmet ingredients")
+
+5. Click the "Create" button. When the craft is complete the item will be in your inventory.
+
+At this point you have an off chain (OC) item. OC items have some downsides you should be aware of. 
+-  If you equip this item, it will become bound to you and will suffer from decay and eventually require being repaired.
+-  Once the item is bound it can never be transferred to another player.
+  
+There are also some benefits to OC items
+- They can be sold to other players on the in-game multiplayer marketplace.
+- They can be enchanted and have specializations added at no cost, as long as you have the enchant scrolls.
+- They are basically free. Assuming you looted a recipe and looted the necessary materials, the actual craft doesn't cost anything.
+
+[Back to top](#kcs-game-guides---crafting-guide)
+
+# Crafting A Blockchain Recipe
+
+Crafting a recipe directly to the blockchain is very similar to OC crafting, except the essences, gems and matter required must already be on the blockchain. You can’t use OC mats to craft a BC item. When the item is created, you can choose to directly list it for sale, or you can use it in game once you sync your wallet. While crafting OC is free, BC crafting is not. You have to pay a fee to mint the item on the blockchain, just as you would if you crafted the item OC and then later wanted to move it from OC to BC. Remember, you always have to pay when an item is added to the blockchain.
+In the example below I will craft a pair of Cotton Leggings. I have five uncommon matter (lvl 1) that are already BC. If the uncommon matter were OC still, the BC craft would not work. I bought these 5 BC mats that were already on the blockchain, but I also could have moved the mats one at a time from OC to BC.
+1.	At the Forge press “F”.
+ 
+
+ 
+2.	Select “Use your Recipe”.
+ 
+
+3.	Select “Blockchain”.
+ 
+
+ 
+4.	In this example I am going to craft the cotton leggings, so I select that recipe.
+ 
+
+5.	As you can see, the five necessary blockchain matter were detected and now I just need to click “Create”.
+ 
+
+6.	The Blacksmith asks me to confirm the crafting process, so I click “Proceed”.
+ 
+
+7.	The Blacksmith lets me know there are fees associated with crafting an item directly to the blockchain. My wallet is fat (well, fat enough for this transaction) so once again, I click “Proceed”.
+ 
+
+8.	The Blacksmith begins searching for the crafting materials in my wallet. When all materials are found, the Blacksmith tells me to authorize the transaction from my Enjin wallet and then click 
+“Proceed” in the game. If you move too quickly and click “Proceed” first, but don’t authorize the transaction quickly enough you will see the following message. Time to open my Enjin wallet and approve the transaction.
+ 
+
+9.	In my Enjin wallet I see the request. This is important because the crafting process must be allowed to remove the 5 BC mats from wallet, and I don’t want that to happen without my permission. At this point I click Confirm and enter my password to authorize the request.
+ 
+
+ 
+10.	The process is not instant, but after 20-30 seconds I get the following message and I wait a little longer for the process to complete.
+
+ 
+
+11.	Once the item is created, I get a message the item is being minted. Within the next few minutes, the item will appear in my wallet and in my in-game inventory.
+
+ 
+
+12.	Now the process is complete. Here is the item in my Enjin wallet.
+ 
+
+13.	And here is the item in my in-game inventory.
+ 
+# Refined Items
+
+# Enchants
+
+# Critical Crafts
+
+While you are crafting, you have the opportunity for a critical craft. This means the item crafted will jump up to the next higher rarity with better than normal stats, and it will have the (S) designation at the end of the name. The S stands for a superior craft.
+
+As an example, I crafted a level 2 Chest of Apocalypse, which would normally be <span style="color:purple">EPIC</span> in rarity. Because I got a critical craft, the same level 2 items is now <span style="color:yellow">LEGENDARY</span> in rarity and has better stats than it's epic counterparts.
+
+![legendary critical craft example](./images/images_crafting_guide/legendary_critical_craft_example_details.jpg "Legendary critical craft example")
+
+This begs the question, what happens on a critical craft for a legendary recipe? After all, legendary is the highest level. Well, not quite. There is one level higher which is the most rare of all...<span style="color:orange">DRAGONFORGED</span>! There are no dragonforged recipes. The only way to get a dragonforged item is as a loot drop, as a result of a critical craft, or of course, you can buy one. As an example, I got a critical craft on this level 2 Dellusion mace, which resulted in a dragonforged weapon. 
+
+![dragonforged critical craft example](./images/images_crafting_guide/dragonforged_critical_craft_example_details.jpg "Dragonforged critical craft example")
+
+Critical crafts are quite rare, but they are a happy surprise when one happens! If you are the proud owner of an SFT, then you have an improved chance that each craft will result in a critical craft.
+ 
+[Back to top](#kcs-game-guides---crafting-guide)
+
+# Item Trader
+ 
+# Moving A Recipe from OC to BC
+
+If you want to sell a recipe or list it on the Blacksmith, you must first move it from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. The one big thing to note is the fees for moving a recipe from OC to BC are paid in JENJ. The fees to move armor and weapons is paid in TSDT. Remember, TSDT has a value of 100 TSDT:1 JENJ.
+1.	Find the Celestial Shop vendor and press “F”.
+ 
+ 
+2.	Select “OC -> BC Equipment Trader”.
+ 
+
+3.	Select “OC Recipes to BC”.
+ 
+
+ 
+4.	Select the recipe you want to move to BC.
+ 
+
+5.	Choose the amount you want to move. Typically, this will be one.
+ 
+
+ 
+6.	Acknowledge the trade cost by validating you have enough TSDT to cover the cost and then selecting “Accept”. The fee to move a recipe is usually cheap. This screen capture was from a level 2 mace I moved, so that cost a little more.
+ 
+
+7.	You will see a message telling you to accept the trade in your Enjin Wallet.
+ 
+8.	Using your phone, open the Enjin wallet application. From the main menu select requests. Select “Confirm Create Trade” and enter your password when prompted. Be sure to do this before proceeding to the next step in the game. If you click Proceed in the game first and are not fast enough to approve the trade request in Enjin, the game will prompt you to approve the trade before it advances to the next step.
+ 
+
+9.	In the game, select “Proceed” to move forward with the trade. You will see a confirmation message saying the trade is in progress. 
+10.	The game says the trade will complete within 2 minutes. I have had it take quite a bit longer (20 minutes +). Be patient. Once the trade is complete you will get a confirmation on your phone and the item will show up as a BC asset.
+11.	The recipe is still in your in-game inventory, but now it also shows up in your Enjin Wallet as an asset.
+
+ 
+# Listing A Recipe on The Blacksmith
+
+One of the big advantages of recipes in TSD is the ability to rent them out to other players. You can let other players use your recipe for a fee so they can craft their own item. The person renting the recipe must pay the fee and provide their own materials, but they receive the crafted item. If they wanted to craft a second item, they would need to pay the fee again and would need another set of materials. At this time, there is no limit to how many times a recipe can be used. You can continue to use your own recipe at no fee while it is listed on the blacksmith. You keep a portion of the fee paid by other players, but the game also takes a portion which goes to support the game. 
+There are limits on the blacksmith based on your crafting level. Your level controls 3 things:
+1.	How many recipes you can list on the blacksmith at one time.
+2.	How many changes you can make to your blacksmith listings each day.
+3.	How many times you can rent your recipes each day.
+Let’s talk about these one at a time. The first limitation is how many recipes you can have listed on the blacksmith. Maybe you have 10 recipes in your inventory, but if your blacksmith level is low, you will only be able to list a few at a time. Let’s say you are capped at four listings. Now you must choose which four recipes are most likely to be used by other players. If you want to list more recipes, you need to craft more items and raise your blacksmith level.
+The next limitation is how many changes you can make to your listings each day. Changes include things like changing the price you want to charge other players, but also include removing and adding recipes. If you are capped at four recipes, but only have 3 listed, then the blacksmith will allow you to swap an unlisted recipe for a listed recipe all in one step which counts as one change. However, if you have four listings active, then you must remove the old listing first, and then add your new recipe in a separate step. This still counts as one change, even though you must perform it in two steps. 
+The final limitation is how many times each day your recipes can be used by other players. If your current limitation is four items per day, then other players can rent your recipes 4 times and craft four items. After that, no one else will be able to rent a recipe from you until the next day. If you want to rent more recipes per day, you need to raise your blacksmith level.
+There is no limitation on how much you can craft each day using your own recipes. If you have the materials, craft away!
+ 
+Before you can rent out a recipe, you need to move it from OC to BC. We discussed how to do this earlier in this guide. Once your BC recipe is ready to list, use the following instructions to make it available to other players.
+1.	At the forge press “F”.
+ 
+
+ 
+2.	Select “Blockchain Blacksmith’s Market”.
+ 
+
+3.	Select “Add Recipe Listing”.
+ 
+
+ 
+4.	Select “Accept” to acknowledge the recipe you want to rent out is BC.
+ 
+
+5.	Select the recipe you want to list.
+ 
+
+ 
+6.	Select the fee for using your recipe. The white bar is a slider, so to increase the amount use the mouse to slide the bar to the right until your price is set. The select “Accept”.
+ 
+
+7.	Once the listing is complete you will see the following message.
+ 
+# Cooking
+
+In addition to crafting, you can collect and cook resources to create buffs. Unlike crafting armor, weapons, and jewelry you don’t need a recipe, so everyone can cook if you have the necessary resources. There are 3 types of buffs you can create.
+1.	Cooked Meat (requires 3 raw meat). +3% to STR, INT, and ACC for 3 minutes when consumed.
+2.	Cooked Mushroom (requires 3 mushrooms). +3% to DEF and M. DEF for 3 minutes when consumed.
+3.	Brew Stew (requires 3 perfect plants and 1 mushroom). +3% to EXP for 3 minutes when consumed.
+These bonuses stack, so you could consume all 3 buffs at once to get all the bonuses. 
+
+You get raw meat by killing huntable animals such as boar, deer, and rabbits. 
+
+You harvest mushrooms wherever you find them. They are rarer and more difficult to see than plants, so keep your eyes open and harvest them whenever you find them.
+When you have the necessary resources to make your buffs, head to town and find the campfire. 
+You need 50 wood resources to light a fire. The fires are single use, so you need 50 wood resources for each buff you want to cook. Once you start the fire, the menu appears, and you select which item you want to cook. If you have the necessary ingredients, the cooking process will start. When it is complete, you will be able to loot the cooked item. 

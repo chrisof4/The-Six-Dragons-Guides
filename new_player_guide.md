@@ -110,7 +110,7 @@ The platforms are the entry to arenas and the rings are the entry to dungeons. T
 <span style="color:green">GREEN – UNCOMMMON</span> \
 <span style="color:blue">BLUE – RARE</span> \
 <span style="color:purple">PURPLE – EPIC</span> \
-<span style="color:orange">YELLOW – LEGENDARY</span>
+<span style="color:yellow">YELLOW – LEGENDARY</span>
 
 The difficulty of the monsters inside doesn’t change depending on the arena/dungeon type, but the better-quality arenas/dungeons have a higher chance of dropping better loot. The bosses don’t always drop loot, so as disappointing as it is, don’t be surprised if there is no reward after killing one.
 
