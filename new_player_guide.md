@@ -11,8 +11,11 @@ KC's Game Guides - New Player Guide - Start Here!
 - [Daily Quests](#daily-quests)
 - [Where is everybody?](#where-is-everybody)
 - [Open World Bosses](#open-world-bosses)
+- [Dragons!](#dragons)
+- [Dragon Mounts!](#dragon-mounts)
 - [Arenas/Dungeons](#arenasdungeons)
 - [OC (off chain) vs. BC (blockchain)](#oc-off-chain-vs-bc-blockchain)
+- [Free To Play](#free-to-play)
 - [Have some class!](#have-some-class)
 - [Player Attributes](#player-attributes)
 - [Crafting basics](#crafting-basics)
@@ -98,6 +101,30 @@ The world boss changes every 10 levels. At level 11-20 you will be looking for a
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
+# Dragons!
+
+The game is called The Six Dragons, so you guessed it, there are six dragons to fight. As you advance through the game you will have the opportunity to fight a different dragon for every 10 levels you advance. The first dragon you will encounter is Tentalus. I don't want to give too much away, so you will find out more about the other dragons as you advance. Each dragon lives in it's own castle. You can find them by looking for the castle icon on the map. 
+
+![dragon castle on map](./images/images_new_player_guide/dragon_castle_on_map.jpg "Dragon castle as seen on the world map")
+
+You take the quest from the daily quest board, but the quest to kill the dragon only resets every Tuesday and Friday, meaning you can only complete this quest twice each week. 
+
+![Qiris' castle](./images/images_new_player_guide/qiris_castle.jpg "Qiris' castle")
+
+This is a quest worth doing. If you can't complete the quest on Tuesday or Friday then don't worry. Once the dragons spawn, the quest can be completed anytime before the next reset. In addition to a challenging fight, the dragons can drop some very nice loot and you earn a dragon's soul everytime you kill one. These can be exchanged for items from a vendor in town. 
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Dragon Mounts!
+
+You may find you get tired of running around being chased by spiders and skeletons. I have good news! For a fee you can purchase one or more of the dragons and use them as a winged mount! These are not loot drops and they can't be crafted. The only way to get a mount is from the TSD store or from another player. There are almost always dragons for sale on the nft.io marketplace. However, don't expect them to come cheap. Tentalus is the most common, has the lowest maximum ceiling and flies the slowest. Don't let that keep you from buying one if it's the only one in your budget. Tentalus is still much faster than running. Flying in this game is a huge advantage and it's a lot of fun.
+
+![Tentalus available for purchase](./images/images_new_player_guide/tentalus_for_purchase.jpg "Tentalus available for purchase")
+
+If your wallet is a little fatter, the dragons become more rare and fly higher and faster as you move up the ladder. You should expect the cost to increase with these added benefits. Nagaroth, the tier 6 dragon is the most rare, highest flying and fastest dragon you can buy. As I write this only 44 have been minted.
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
 # Arenas/Dungeons
 Now the grind begins. Go a short distance from the town until you begin seeing monsters (spiders, skeletons, etc.) and kill them. This generates experience and gold. You need to keep doing this until you get an arena crystal or a portal key. As you roam the map, you will see some big floating rings and some platforms you can stand on.
 
@@ -123,13 +150,23 @@ This is a good time to talk about tents. You can buy tents from the vendor in to
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
 # OC (off chain) vs. BC (blockchain)
-“Wait, you said something about looting OC items. What are those?” You are full of great questions! One of the differentiators that makes TSD so great is that it’s a blockchain game. This means that many of the best items in the game can be moved out of the game and sold to other players. Or you can buy items from other players and bring them into the game. OC stands for off chain. OC items are rare drops like weapons, armor and crafting recipes. These items will have a bold border when viewed in your inventory.
+“Wait, you said something about looting OC items. What are those?” You are full of great questions! One feature that makes TSD so great is that it’s a blockchain game. This means that many of the best items in the game can be moved out of the game and sold to other players. Or you can buy items from other players and bring them into the game. OC stands for off chain. OC items are rare drops like weapons, armor and crafting recipes. These items will have a bold border when viewed in your inventory.
 
 ![oc items](./images/images_new_player_guide/OC%20Items.jpg "OC items have a bold border")
 
 While an item exists off chain, it can only exist inside the game. Let’s assume you loot an Uncommon (green) chest piece. It will have better stats than the common armor, so it’s advisable to use it. However, you might want to do some planning first. If you just equip the armor piece it will become bound to you. Also, OC items incur wear as they are used and will eventually need to be repaired. Alternatively, if you don’t equip the item and you leave it unbound, then you can sell it to another player on the multiplayer marketplace.
 
 There is a 3rd option, which is to move the item to the blockchain. Items on the blockchain are referred to as BC items. They can’t be bound, they don’t decay and they can always be bought or sold to other players. Moving an item to BC is not free. You need to pay a fee to move items between from OC to BC. There is a vendor in town that will help you facilitate this transaction. If you want a better understanding of crypto currency as it relates to the game, be sure to read my Game Economy Guide for more information.
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Free To Play
+
+The Six Dragons is a free to play game. You don't have to purchase the game or buy a subscription to play. But, of course there are incentives to spending a little money. The most difficult way to play TSD is completely for free. You will have the lowest chance of getting good loot drops, the lowest chance of a critical craft and earn XP at the slowest rate. You can buy a 30 day subscription which provides you with extra benefits. There is also an option to purchase a lifetime VIP membership for a flat fee that will ensure you always have these extra benefits. Oh, and guess what? The lifetime VIP membership is an NFT meaning it is fully transferable and can be sold to other players if you decide you don't want it anymore!
+
+If you're wondering if you can play the game for free and loot items to sell and earn real world crypto with zero investment, the answer is no. There are no BC drops. Everything drops OC, so if you want to sell an item to another player for anything other than in-game gold, you'll need to spend a little bit of money to move the item to the blockchain first. By the time you hit level 11 you'll probably want to purchase some armor pieces and maybe a better weapon to make the grind a little easier. 
+
+Whether it's a crypto game or not, most gaming experiences are better if you spend some money. The difference is that you can recoup much of your initial investment by selling items to other players as you outgrow them, or as you craft or loot them. What other game lets you do that?
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 

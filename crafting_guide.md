@@ -10,12 +10,12 @@ KC's Game Guides - Crafting Guide
 - [Introduction](#introduction)
 - [Recipes, not patterns](#recipes-not-patterns)
 - [Crafting An Off Chain Recipe](#crafting-an-off-chain-recipe)
+- [Moving any item from OC to BC](#moving-any-item-from-oc-to-bc)
 - [Crafting A Blockchain Recipe](#crafting-a-blockchain-recipe)
 - [Refined Items](#refined-items)
 - [Enchants](#enchants)
 - [Critical Crafts](#critical-crafts)
 - [Item Trader](#item-trader)
-- [Moving A Recipe from OC to BC](#moving-a-recipe-from-oc-to-bc)
 - [Listing A Recipe on The Blacksmith](#listing-a-recipe-on-the-blacksmith)
 - [Cooking](#cooking)
 
@@ -77,9 +77,65 @@ There are also some benefits to OC items
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
+# Moving any item from OC to BC
+
+If you want to sell a recipe or list it on the Blacksmith, you must first move it from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. The one big thing to note is the fees for moving a recipe from OC to BC are paid in JENJ. The fees to move armor and weapons is paid in TSDT. Remember, TSDT has a value of 100 TSDT:1 JENJ.
+1.	Find the Celestial Shop vendor and press “F”.
+ 
+ 
+2.	Select “OC -> BC Equipment Trader”.
+ 
+
+3.	Select “OC Recipes to BC”.
+ 
+
+ 
+4.	Select the recipe you want to move to BC.
+ 
+
+5.	Choose the amount you want to move. Typically, this will be one.
+ 
+
+ 
+6.	Acknowledge the trade cost by validating you have enough TSDT to cover the cost and then selecting “Accept”. The fee to move a recipe is usually cheap. This screen capture was from a level 2 mace I moved, so that cost a little more.
+ 
+
+7.	You will see a message telling you to accept the trade in your Enjin Wallet.
+ 
+8.	Using your phone, open the Enjin wallet application. From the main menu select requests. Select “Confirm Create Trade” and enter your password when prompted. Be sure to do this before proceeding to the next step in the game. If you click Proceed in the game first and are not fast enough to approve the trade request in Enjin, the game will prompt you to approve the trade before it advances to the next step.
+ 
+
+9.	In the game, select “Proceed” to move forward with the trade. You will see a confirmation message saying the trade is in progress. 
+10.	The game says the trade will complete within 2 minutes. I have had it take quite a bit longer (20 minutes +). Be patient. Once the trade is complete you will get a confirmation on your phone and the item will show up as a BC asset.
+11.	The recipe is still in your in-game inventory, but now it also shows up in your Enjin Wallet as an asset.
+
 # Crafting A Blockchain Recipe
 
-Crafting a recipe directly to the blockchain is very similar to OC crafting, except the essences, gems and matter required must already be on the blockchain. You can’t use OC mats to craft a BC item. When the item is created, you can choose to directly list it for sale, or you can use it in game once you sync your wallet. While crafting OC is free, BC crafting is not. You have to pay a fee to mint the item on the blockchain, just as you would if you crafted the item OC and then later wanted to move it from OC to BC. Remember, you always have to pay when an item is added to the blockchain.
+You have the option of crafting an item directly to the blockchain. When the item is created, you can choose to directly list it for sale, or you can use it in game once you sync your wallet. While crafting OC is free, BC crafting is not. You have to pay a fee to mint the item on the blockchain, just as you would if you crafted the item OC and then later wanted to move it from OC to BC. Remember, you always have to pay when an item is added to the blockchain.
+
+BC crafting can't be down at the Blacksmith's forge in town. You'll need to travel to Enjinville, which is just North of Aligren. 
+
+![Enjinville entrance](./images/images_crafting_guide/enjinville_entrance.jpg "Enjinville Entrance")
+
+In Enjinville you will find a Blacksmith's Forge similar to the one in each town but with some extra options. 
+
+![Enjinville Forge](./images/images_crafting_guide/enjinville_forge.jpg "The forge in Enjinville")
+
+Press "F" to use the forge and you will see the following screen.
+
+![BC Crafting Screen 1](./images/images_crafting_guide/bc_crafting_screen_01.jpg "BC Crafting Screen 1")
+
+Select the Crafting Station option and then select the desired recipe from your list of available recipes. Confirm you have the necessary ingredients and click Create. At this point you'll be reminded there is a fee for BC crafting and to be sure you have enough funds in your wallet to pay for it. As long as you have the funds, select Proceed.
+
+![BC Crafting Screen 2](./images/images_crafting_guide/bc_crafting_screen_02.jpg "BC Crafting Screen 2")
+
+The crafting will start and the materials will be removed from your wallet. Before the crafting process can finish you will have to pay the bill. You will be told how much the transaction will cost and be shown the breakdown of fees. Select Proceed to mint your item to the blockchain.
+
+![BC Crafting Screen 3](./images/images_crafting_guide/bc_crafting_screen_03.jpg "BC Crafting Screen 3")
+
+
+
+
 In the example below I will craft a pair of Cotton Leggings. I have five uncommon matter (lvl 1) that are already BC. If the uncommon matter were OC still, the BC craft would not work. I bought these 5 BC mats that were already on the blockchain, but I also could have moved the mats one at a time from OC to BC.
 1.	At the Forge press “F”.
  
@@ -147,37 +203,6 @@ Critical crafts are quite rare, but they are a happy surprise when one happens! 
 
 # Item Trader
  
-# Moving A Recipe from OC to BC
-
-If you want to sell a recipe or list it on the Blacksmith, you must first move it from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. The one big thing to note is the fees for moving a recipe from OC to BC are paid in JENJ. The fees to move armor and weapons is paid in TSDT. Remember, TSDT has a value of 100 TSDT:1 JENJ.
-1.	Find the Celestial Shop vendor and press “F”.
- 
- 
-2.	Select “OC -> BC Equipment Trader”.
- 
-
-3.	Select “OC Recipes to BC”.
- 
-
- 
-4.	Select the recipe you want to move to BC.
- 
-
-5.	Choose the amount you want to move. Typically, this will be one.
- 
-
- 
-6.	Acknowledge the trade cost by validating you have enough TSDT to cover the cost and then selecting “Accept”. The fee to move a recipe is usually cheap. This screen capture was from a level 2 mace I moved, so that cost a little more.
- 
-
-7.	You will see a message telling you to accept the trade in your Enjin Wallet.
- 
-8.	Using your phone, open the Enjin wallet application. From the main menu select requests. Select “Confirm Create Trade” and enter your password when prompted. Be sure to do this before proceeding to the next step in the game. If you click Proceed in the game first and are not fast enough to approve the trade request in Enjin, the game will prompt you to approve the trade before it advances to the next step.
- 
-
-9.	In the game, select “Proceed” to move forward with the trade. You will see a confirmation message saying the trade is in progress. 
-10.	The game says the trade will complete within 2 minutes. I have had it take quite a bit longer (20 minutes +). Be patient. Once the trade is complete you will get a confirmation on your phone and the item will show up as a BC asset.
-11.	The recipe is still in your in-game inventory, but now it also shows up in your Enjin Wallet as an asset.
 
  
 # Listing A Recipe on The Blacksmith
