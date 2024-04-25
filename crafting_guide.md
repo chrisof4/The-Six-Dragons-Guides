@@ -109,9 +109,12 @@ If you want to sell a recipe or list it on the Blacksmith, you must first move i
 10.	The game says the trade will complete within 2 minutes. I have had it take quite a bit longer (20 minutes +). Be patient. Once the trade is complete you will get a confirmation on your phone and the item will show up as a BC asset.
 11.	The recipe is still in your in-game inventory, but now it also shows up in your Enjin Wallet as an asset.
 
+[Back to top](#kcs-game-guides---crafting-guide)
+
 # Crafting A Blockchain Recipe
 
 You have the option of crafting an item directly to the blockchain. When the item is created, you can choose to directly list it for sale, or you can use it in game once you sync your wallet. While crafting OC is free, BC crafting is not. You have to pay a fee to mint the item on the blockchain, just as you would if you crafted the item OC and then later wanted to move it from OC to BC. Remember, you always have to pay when an item is added to the blockchain.
+BC crafting uses OC mats. You don't have to move the mats to BC first. The mats will be consumed from your inventory and destroyed in the crafting process.
 
 BC crafting can't be down at the Blacksmith's forge in town. You'll need to travel to Enjinville, which is just North of Aligren. 
 
@@ -121,69 +124,43 @@ In Enjinville you will find a Blacksmith's Forge similar to the one in each town
 
 ![Enjinville Forge](./images/images_crafting_guide/enjinville_forge.jpg "The forge in Enjinville")
 
-Press "F" to use the forge and you will see the following screen.
+1. Press "F" to use the forge and you will see the following screen.
 
 ![BC Crafting Screen 1](./images/images_crafting_guide/bc_crafting_screen_01.jpg "BC Crafting Screen 1")
 
-Select the Crafting Station option and then select the desired recipe from your list of available recipes. Confirm you have the necessary ingredients and click Create. At this point you'll be reminded there is a fee for BC crafting and to be sure you have enough funds in your wallet to pay for it. As long as you have the funds, select Proceed.
+2. Select the Crafting Station option and then select the desired recipe from your list of available recipes. Confirm you have the necessary ingredients and click Create. At this point you'll be reminded there is a fee for BC crafting and to be sure you have enough funds in your wallet to pay for it. As long as you have the funds, select Proceed.
 
 ![BC Crafting Screen 2](./images/images_crafting_guide/bc_crafting_screen_02.jpg "BC Crafting Screen 2")
 
-The crafting will start and the materials will be removed from your wallet. Before the crafting process can finish you will have to pay the bill. You will be told how much the transaction will cost and be shown the breakdown of fees. Select Proceed to mint your item to the blockchain.
+3. The crafting will start and the materials will be removed from your wallet. Before the crafting process can finish you will have to pay the bill. You will be told how much the transaction will cost and be shown the breakdown of fees. Select Proceed to mint your item to the blockchain.
 
 ![BC Crafting Screen 3](./images/images_crafting_guide/bc_crafting_screen_03.jpg "BC Crafting Screen 3")
 
+4. The minting process will begin. You will see a message when this is complete and you will also see the item was added to your inventory in the combat log. 
 
+![BC crafting success log update](./images/images_crafting_guide/bc_crafting_success_log_update.jpg "Log message showing the crafted items was added to your inventory")
 
+If I examine the item in my inventory, it will show the all important "BC" designator in the lower right corner.
 
-In the example below I will craft a pair of Cotton Leggings. I have five uncommon matter (lvl 1) that are already BC. If the uncommon matter were OC still, the BC craft would not work. I bought these 5 BC mats that were already on the blockchain, but I also could have moved the mats one at a time from OC to BC.
-1.	At the Forge press “F”.
- 
+![Details of successful BC craft](./images/images_crafting_guide/bc_crafting_successful_craft_item_details.jpg "Details screen of successful BC craft")
 
- 
-2.	Select “Use your Recipe”.
- 
+At this point your BC craft is complete.
 
-3.	Select “Blockchain”.
- 
+[Back to top](#kcs-game-guides---crafting-guide)
 
- 
-4.	In this example I am going to craft the cotton leggings, so I select that recipe.
- 
-
-5.	As you can see, the five necessary blockchain matter were detected and now I just need to click “Create”.
- 
-
-6.	The Blacksmith asks me to confirm the crafting process, so I click “Proceed”.
- 
-
-7.	The Blacksmith lets me know there are fees associated with crafting an item directly to the blockchain. My wallet is fat (well, fat enough for this transaction) so once again, I click “Proceed”.
- 
-
-8.	The Blacksmith begins searching for the crafting materials in my wallet. When all materials are found, the Blacksmith tells me to authorize the transaction from my Enjin wallet and then click 
-“Proceed” in the game. If you move too quickly and click “Proceed” first, but don’t authorize the transaction quickly enough you will see the following message. Time to open my Enjin wallet and approve the transaction.
- 
-
-9.	In my Enjin wallet I see the request. This is important because the crafting process must be allowed to remove the 5 BC mats from wallet, and I don’t want that to happen without my permission. At this point I click Confirm and enter my password to authorize the request.
- 
-
- 
-10.	The process is not instant, but after 20-30 seconds I get the following message and I wait a little longer for the process to complete.
-
- 
-
-11.	Once the item is created, I get a message the item is being minted. Within the next few minutes, the item will appear in my wallet and in my in-game inventory.
-
- 
-
-12.	Now the process is complete. Here is the item in my Enjin wallet.
- 
-
-13.	And here is the item in my in-game inventory.
- 
 # Refined Items
 
+
+
+[Back to top](#kcs-game-guides---crafting-guide)
+
 # Enchants
+
+
+
+
+
+[Back to top](#kcs-game-guides---crafting-guide)
 
 # Critical Crafts
 
