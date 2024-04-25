@@ -149,16 +149,31 @@ At this point your BC craft is complete.
 [Back to top](#kcs-game-guides---crafting-guide)
 
 # Refined Items
+Many of the recipes require refined items. These include things like thread, sacred thread, bark, sacred bark, healing herbs and blue lotus flower.
 
+![Refined items](./images/images_crafting_guide/refining_choices_displayed.jpg "Items that can be refined")
 
+In order to refine these, you need to collect the appropriate resources and then visit the refining station in one of the towns. 
+
+![Refining station in Aligren](./images/images_crafting_guide/refining_station_in_Aligren.jpg "Refining station in Aligren")
+
+Everything requires plants or perfect plants except the bark. Bark requires wood and sacred bark requires perfect wood. In addition to the required materials, you must pay a fee in gold to craft these items. 
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
 # Enchants
 
+As you collect loot you will also begin to gather enchant scrolls. Weapons and armor each have their own scrolls and the scroll has to match the item you want to enchant. So, if you have a level 3 sword, you need a level 3 weapon enchant. Using the enchant scroll on the weapon will slightly increase the stats. 
 
+![Level 2 armor enchant scroll](./images/images_crafting_guide/enchant_scroll_armor_lvl2.jpg "Level 2 armor enchant scroll")
 
+Items can be enchanted more than once. In fact, you can enchant an item up to +15. **Be very careful here!** Standard scrolls have a 100% chance to succeed up to +3. After +4 there is only a 66% chance of success. If the enchant fails, you lose the item. 
 
+An extremely rare item is the blessed enchant scroll. Blessed enchant scrolls have a 100% chance to succeed all the way up to +15. They exist in the game, but as of this version of the guide I'm not sure how you get them. 
+
+Another type of enchant scroll is a the armor specialization scroll. This will modify the stats of an armor piece in favor of either a wizard or a warrior depending on the scroll. There is also an armor specialization remove scroll, so if you buy a great armor piece that is enchanted for a wizard, you can use the remove scroll to remove the specialization enchant and then use a warrior specialization scroll. 
+
+![Wizard specialization scroll level 3](./images/images_crafting_guide/armor_specialization_scroll_wizard_lv3.jpg "Level 3 Wizard specialization scroll")    ![Armor specialization scroll remove level 3](./images/images_crafting_guide/armor_specialization_scroll_remove_lv3.jpg "Level 3 Armor Specialization Remove Scroll")
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
@@ -179,55 +194,58 @@ Critical crafts are quite rare, but they are a happy surprise when one happens! 
 [Back to top](#kcs-game-guides---crafting-guide)
 
 # Item Trader
- 
+ As you're crafting you will inevitably find yourself short of one item or another. Let's assume you ran out of level 1 metal because you are already mining level 2 metal. But you need level 1 metal to craft that mace for your friend. The Item Trader is here to save the day!
 
+![Item trader in Aligren](./images/images_crafting_guide/item_trader_in_aligren.jpg "The Item Trader in Aligren")
+
+The item trader will allow you to trade certain items between levels. In our example you needed level 1 metal, but you have extra level 2 metal. For a fee the trader will give you 2 level 1 metal for every 1 level 2 metal you trade to them. If you trade them 1000 level 2 metal you will get 2000 level 1 metal. Trades work the other way also. If you trade 1000 level 2 metal for level 3 then you will only 500 level 3 metal. 
+
+You can do this with many things like metal, wood, plant, matter, gems, essence, dungeon keys and arena crystals. You can also do this with refined items. However, you can't do this with patterns or enchant scrolls. 
+
+[Back to top](#kcs-game-guides---crafting-guide)
  
 # Listing A Recipe on The Blacksmith
 
-One of the big advantages of recipes in TSD is the ability to rent them out to other players. You can let other players use your recipe for a fee so they can craft their own item. The person renting the recipe must pay the fee and provide their own materials, but they receive the crafted item. If they wanted to craft a second item, they would need to pay the fee again and would need another set of materials. At this time, there is no limit to how many times a recipe can be used. You can continue to use your own recipe at no fee while it is listed on the blacksmith. You keep a portion of the fee paid by other players, but the game also takes a portion which goes to support the game. 
-There are limits on the blacksmith based on your crafting level. Your level controls 3 things:
+One of the big advantages of recipes in TSD is the ability to rent them out to other players. You can let other players use your recipe for a fee so they can craft their own item. The person renting the recipe must pay the fee and provide their own materials, but they receive the crafted item. If they wanted to craft a second item, they would need to pay the fee again and would need another set of materials.
+
+You can continue to use your own recipe at no fee while it is listed on the blacksmith. You keep a portion of the fee paid by other players, but the game also takes a portion which goes to support the game. 
+
+There are limits on the blacksmith service based on your crafting level. Your level controls 3 things:
 1.	How many recipes you can list on the blacksmith at one time.
 2.	How many changes you can make to your blacksmith listings each day.
 3.	How many times you can rent your recipes each day.
-Let’s talk about these one at a time. The first limitation is how many recipes you can have listed on the blacksmith. Maybe you have 10 recipes in your inventory, but if your blacksmith level is low, you will only be able to list a few at a time. Let’s say you are capped at four listings. Now you must choose which four recipes are most likely to be used by other players. If you want to list more recipes, you need to craft more items and raise your blacksmith level.
+
+Let’s talk about these one at a time. The first limitation is how many recipes you can have listed on the blacksmith. Maybe you have 10 recipes in your inventory, but if your blacksmith level is low, you will only be able to list a few at one time. Let’s say you are capped at four listings. Now you must choose which four recipes are most likely to be used by other players. If you want to list more recipes, you need to craft more items and raise your blacksmith skill level.
+
 The next limitation is how many changes you can make to your listings each day. Changes include things like changing the price you want to charge other players, but also include removing and adding recipes. If you are capped at four recipes, but only have 3 listed, then the blacksmith will allow you to swap an unlisted recipe for a listed recipe all in one step which counts as one change. However, if you have four listings active, then you must remove the old listing first, and then add your new recipe in a separate step. This still counts as one change, even though you must perform it in two steps. 
+
 The final limitation is how many times each day your recipes can be used by other players. If your current limitation is four items per day, then other players can rent your recipes 4 times and craft four items. After that, no one else will be able to rent a recipe from you until the next day. If you want to rent more recipes per day, you need to raise your blacksmith level.
+
 There is no limitation on how much you can craft each day using your own recipes. If you have the materials, craft away!
  
-Before you can rent out a recipe, you need to move it from OC to BC. We discussed how to do this earlier in this guide. Once your BC recipe is ready to list, use the following instructions to make it available to other players.
+Before you can rent out a recipe, you need to move it from OC to BC. We discussed how to do this in the section [earlier in this guide](#moving-any-item-from-oc-to-bc). Once your BC recipe is ready to list, use the following instructions to make it available to other players.
 1.	At the forge press “F”.
- 
-
- 
 2.	Select “Blockchain Blacksmith’s Market”.
- 
-
 3.	Select “Add Recipe Listing”.
- 
-
- 
 4.	Select “Accept” to acknowledge the recipe you want to rent out is BC.
- 
-
 5.	Select the recipe you want to list.
- 
-
- 
 6.	Select the fee for using your recipe. The white bar is a slider, so to increase the amount use the mouse to slide the bar to the right until your price is set. The select “Accept”.
+7.	Once the listing is complete you will see a confirmation message.
  
+[Back to top](#kcs-game-guides---crafting-guide)
 
-7.	Once the listing is complete you will see the following message.
- 
 # Cooking
 
-In addition to crafting, you can collect and cook resources to create buffs. Unlike crafting armor, weapons, and jewelry you don’t need a recipe, so everyone can cook if you have the necessary resources. There are 3 types of buffs you can create.
-1.	Cooked Meat (requires 3 raw meat). +3% to STR, INT, and ACC for 3 minutes when consumed.
-2.	Cooked Mushroom (requires 3 mushrooms). +3% to DEF and M. DEF for 3 minutes when consumed.
-3.	Brew Stew (requires 3 perfect plants and 1 mushroom). +3% to EXP for 3 minutes when consumed.
-These bonuses stack, so you could consume all 3 buffs at once to get all the bonuses. 
+In addition to crafting, you can collect and cook resources to create buffs. Unlike crafting armor, weapons, and jewelry you don’t need a recipe, so everyone can cook if you have the necessary resources. There are 4 types of buffs you can create.
+1.	Cooked Meat (requires 10 raw meat). +3% to STR, INT, and ACC for 10 minutes when consumed.
+2.	Cooked Mushroom (requires 10 mushrooms). +3% to DEF and M. DEF for 10 minutes when consumed.
+3.	Brew Stew (requires 3 perfect plants and 1 mushroom). +3% to EXP for 10 minutes when consumed.
+4.  Cooked Fish (requires 10 of the same level fish). Cooked fish increases your stats more and longer as the rarity of the fish increases. Regular old cooked fish increases your stats marginally for 10 minutes, where as legendary cooked fish increases your stats much more and last for 20 minutes.
 
-You get raw meat by killing huntable animals such as boar, deer, and rabbits. 
+These bonuses stack, so you could consume all several or all of the buffs at once to get all the bonuses. 
 
-You harvest mushrooms wherever you find them. They are rarer and more difficult to see than plants, so keep your eyes open and harvest them whenever you find them.
-When you have the necessary resources to make your buffs, head to town and find the campfire. 
-You need 50 wood resources to light a fire. The fires are single use, so you need 50 wood resources for each buff you want to cook. Once you start the fire, the menu appears, and you select which item you want to cook. If you have the necessary ingredients, the cooking process will start. When it is complete, you will be able to loot the cooked item. 
+You get raw meat by killing wild animals such as boar, deer, and rabbits. You harvest mushrooms wherever you find them. I explain how to fish in the New Player Guide.
+
+When you have the necessary resources to make your buffs, head to town and find the campfire. You need 15 wood resources to light a fire. The fires are single use, so you need 15 wood resources for each buff you want to cook. Once you start the fire, the menu appears, and you select which item you want to cook. If you have the necessary ingredients, the cooking process will start. When it is complete, you will be able to loot the cooked item. 
+
+[Back to top](#kcs-game-guides---crafting-guide)
