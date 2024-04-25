@@ -10,10 +10,18 @@ KC's Game Guides - Crafting Guide
 - [Introduction](#introduction)
 - [Recipes, not patterns](#recipes-not-patterns)
 - [Crafting An Off Chain Recipe](#crafting-an-off-chain-recipe)
+- [A Tale of Two Wallets](#a-tale-of-two-wallets)
 - [Moving any item from OC to BC](#moving-any-item-from-oc-to-bc)
 - [Crafting A Blockchain Recipe](#crafting-a-blockchain-recipe)
 - [Refined Items](#refined-items)
-- [Enchants](#enchants)
+- [Enchants and Scrolls](#enchants-and-scrolls)
+  - [Enchant Scrolls](#enchant-scrolls)
+  - [Blessed Enchant Scrolls](#blessed-enchant-scrolls)
+  - [Specialization Scrolls](#specialization-scrolls)
+  - [Repair Toolkits](#repair-toolkits)
+  - [Blockchain Enchanting](#blockchain-enchanting)
+  - [Moving an item into the Game Wallet](#moving-an-item-into-the-game-wallet)
+  - [Enchant or Specialize the item](#enchant-or-specialize-the-item)
 - [Critical Crafts](#critical-crafts)
 - [Item Trader](#item-trader)
 - [Listing A Recipe on The Blacksmith](#listing-a-recipe-on-the-blacksmith)
@@ -75,10 +83,30 @@ There are also some benefits to OC items
 - They can be enchanted and have specializations added at no cost, as long as you have the enchant scrolls.
 - They are basically free. Assuming you looted a recipe and looted the necessary materials, the actual craft doesn't cost anything.
 
+When you craft an OC item, it ends up in your game wallet. This is important, so read more about this in the next section.
+
 [Back to top](#kcs-game-guides---crafting-guide)
+
+# A Tale of Two Wallets
+
+**A little bit of explanation is required here, so bear with me. This is very important, so please pay attention and reread this until you fully understand it.**
+
+There are 2 wallets in the game, the Game Wallet and your personal wallet. Your personal wallet is your Enjin wallet. This is the one where you can view your NFT's on your phone or on nft.io.
+
+Both the Game Wallet and the personal wallet synchronize to your inventory in the game. So, if you can see an item in your inventory, you might believe it's in your game wallet, but that's not necessarily true. An item can only exist in one place. When you see an item in your inventory it only exists in one of these 3 places:
+- OC meaning the item only exists inside the game and resides in your inventory.
+- Game Wallet
+- Personal Wallet
+
+If you can see an item in your personal wallet, then that is the only place where the item exists. At this point the item is locked on the chain and the attributes can't be changed. Before it can be modified it must be moved somewhere the game has the ability to change the attributes. That's where your Game Wallet comes in. 
+
+Remember earlier when I said OC crafted items land in your Game Wallet? While an item is in your Game Wallet, the game has permission to modify it. Technically the item gets destroyed and recreated with new attributes. Once the modifications are complete, you'll want to move the item back to your personal wallet where the item's attributes are locked again.
+
+The game wallet is a transitory space. It's more of a temporary holding area rather than a final destination. In general items will either be OC and only exist in your inventory, or they will be BC and stored in your personal wallet. The only time you will have items in your game wallet is when you want to modify them. That's not to say you couldn't have items in your game wallet for long periods of time as this is possible. But, when you use the option to transfer NFT's to your personal wallet, anything in the game wallet will get moved out. 
 
 # Moving any item from OC to BC
 
+**SECTION NEEDS TO BE REWORKED**
 If you want to sell a recipe or list it on the Blacksmith, you must first move it from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. The one big thing to note is the fees for moving a recipe from OC to BC are paid in JENJ. The fees to move armor and weapons is paid in TSDT. Remember, TSDT has a value of 100 TSDT:1 JENJ.
 1.	Find the Celestial Shop vendor and press “F”.
  
@@ -161,7 +189,9 @@ Everything requires plants or perfect plants except the bark. Bark requires wood
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
-# Enchants
+# Enchants and Scrolls
+
+## Enchant Scrolls
 
 As you collect loot you will also begin to gather enchant scrolls. Weapons and armor each have their own scrolls and the scroll has to match the item you want to enchant. So, if you have a level 3 sword, you need a level 3 weapon enchant. Using the enchant scroll on the weapon will slightly increase the stats. 
 
@@ -169,11 +199,88 @@ As you collect loot you will also begin to gather enchant scrolls. Weapons and a
 
 Items can be enchanted more than once. In fact, you can enchant an item up to +15. **Be very careful here!** Standard scrolls have a 100% chance to succeed up to +3. After +4 there is only a 66% chance of success. If the enchant fails, you lose the item. 
 
-An extremely rare item is the blessed enchant scroll. Blessed enchant scrolls have a 100% chance to succeed all the way up to +15. They exist in the game, but as of this version of the guide I'm not sure how you get them. 
+You can use an enchant scroll from anywhere. You don't need to be near a crafting station or any other item.
+
+## Blessed Enchant Scrolls
+
+The blessed enchant scroll is an extremely rare item. Blessed enchant scrolls have a 100% chance to succeed all the way up to +15. They exist in the game, but as of this version of the guide I'm not sure how you get them except by buying them from other players. I believe these were purchased as part of the game's pre-sale.
+
+## Specialization Scrolls
 
 Another type of enchant scroll is a the armor specialization scroll. This will modify the stats of an armor piece in favor of either a wizard or a warrior depending on the scroll. There is also an armor specialization remove scroll, so if you buy a great armor piece that is enchanted for a wizard, you can use the remove scroll to remove the specialization enchant and then use a warrior specialization scroll. 
 
 ![Wizard specialization scroll level 3](./images/images_crafting_guide/armor_specialization_scroll_wizard_lv3.jpg "Level 3 Wizard specialization scroll")    ![Armor specialization scroll remove level 3](./images/images_crafting_guide/armor_specialization_scroll_remove_lv3.jpg "Level 3 Armor Specialization Remove Scroll")
+
+## Repair Toolkits
+
+If you bind an OC item it will begin to suffer decay. Eventually the item will break and become unusable until you repair it. **NOTE - This can happen in the middle of a fight, in which case the item get's unequipped, which can be really bad!**
+
+To repair the item you need to use a repair toolkit. OK, I know these aren't technically scrolls, but they look very similar to the enchant scrolls and they land very near them in your inventory, so I lumped them in here. 
+
+![Level 1 Armor Repair Toolkit](./images/images_crafting_guide/repair_toolkit_level_1.jpg "Level 1 Armor Repair Toolkit")
+
+There are armor repair toolkits and weapon repair toolkits. You need to use the appropriate level and type of toolkit. You'll also be required to provide some kind of crafting material. For instance, if you are repairing a level 3 rare chest piece, you will need a level 3 armor repair toolkit and you will propably also need a level 3 rare matter. The matter will be consumed during the repair process and the item will be restored to 100%.
+
+## Blockchain Enchanting
+
+Everything I've told you so far works great as long as the item is OC or in your Game Wallet. Keep this in mind when you are crafting. Whenever possible you probably want to apply enchants and specializations before you move the item to BC. 
+
+You can still enchant and modify the specialization for BC items (repair is obviously not necessary) at a station in Enjinville. A few extra steps are required first. 
+
+Pop quiz time! If you have an item that is BC, which wallet is this in? If you said your personal wallet, you are 100% correct. If you missed this, go back and reread [a tale of two wallets](#a-tale-of-two-wallets). You'll thank me later.
+
+Since the item is in your personal wallet the attributes are locked and it can't be changed. We need to move the item to your Game Wallet first. 
+
+## Moving an item into the Game Wallet
+
+1. Press "M" to open the menu.
+
+![Main game menu](./images/images_crafting_guide/game_menu.jpg "Main game menu")
+
+2. Press "W" to open your wallet. Your QR code will be displayed for your Game Wallet.
+
+![Wallet sub menu](./images/images_crafting_guide/wallet_submenu.jpg "Wallet submenu")
+
+3. Using your phone, open your Enjin wallet. Find the NFT you want to encant or modify.
+
+![Unencanted NFT](./images/images_crafting_guide/chest_of_apocalypse_unenchanted.jpg "Unenchanted Chest of Apocalypse")
+
+4. Send the item to the QR code of your Game Wallet.
+
+![Enjin send screen 1](./images/images_crafting_guide/enjin_wallet_send_nft_screen_1.jpg "Enjin send screen 1")
+
+5. Enjin will display the fees for the item transfer. While creating this document there was a promo that paid the cost, so my transfer was free. Yay me! Confirm the fees and press "Send".
+
+![Enjin send screen 2](./images/images_crafting_guide/enjin_wallet_send_nft_screen_2.jpg "Enjin send screen 2")
+
+6. Once the transfer is successful you will get a confirmation. 
+
+![Successful transfer message](./images/images_crafting_guide/enjin_wallet_send_confirmation.jpg "Successful transfer message")
+
+At this point the item is no longer visible in your personal wallet because it's been moved to the Game Wallet. 
+
+## Enchant or Specialize the item
+If you're not there already, you need to get to the BC Enchanting station in Enjinville.
+
+![Enchanting station in Enjinville](./images/images_crafting_guide/enjinville_bc_enchanting_station.jpg "The BC enchanting station in Enjinville")
+
+The process is the same for either enchants or specializations.
+
+1. Press "F" to interact with the station. In this case you are interacting with the table.
+
+![BC enchant screen 1](./images/images_crafting_guide/bc_enchant_screen_1.jpg "BC enchant screen 1")
+
+2. Select the scroll you wish to use. In this example I'm using a level 2 armor enchant.
+3. Acknowledge the message the BC item must be in your game wallet.
+
+![BC enchant screen 2](./images/images_crafting_guide/bc_enchant_screen_2.jpg "BC enchant screen 2")
+
+4. Acknowledge the message the item must be unequipped, etc.
+
+![BC enchant screen 3](./images/images_crafting_guide/bc_enchant_screen_3.jpg "BC enchant screen 3")
+
+5. 
+
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
