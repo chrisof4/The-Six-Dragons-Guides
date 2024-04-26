@@ -25,6 +25,7 @@ KC's Game Guides - Crafting Guide
 - [Critical Crafts](#critical-crafts)
 - [Item Trader](#item-trader)
 - [Listing A Recipe on The Blacksmith](#listing-a-recipe-on-the-blacksmith)
+- [Crafting on the Blacksmith with another player's recipe](#crafting-on-the-blacksmith-with-another-players-recipe)
 - [Cooking](#cooking)
 
 
@@ -106,36 +107,29 @@ The game wallet is a transitory space. It's more of a temporary holding area rat
 
 # Moving any item from OC to BC
 
-**SECTION NEEDS TO BE REWORKED**
-If you want to sell a recipe or list it on the Blacksmith, you must first move it from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. The one big thing to note is the fees for moving a recipe from OC to BC are paid in JENJ. The fees to move armor and weapons is paid in TSDT. Remember, TSDT has a value of 100 TSDT:1 JENJ.
-1.	Find the Celestial Shop vendor and press “F”.
- 
- 
-2.	Select “OC -> BC Equipment Trader”.
- 
+If you want to sell an item to another player or list a recipe on the Blacksmith Service, you must first move the item from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. 
 
-3.	Select “OC Recipes to BC”.
- 
+1.	Go to Enjinville and look for the OC to BC Door.
 
- 
-4.	Select the recipe you want to move to BC.
- 
+![OC to BC door](./images/images_crafting_guide/oc_to_bc_door.jpg "OC to BC door")
 
-5.	Choose the amount you want to move. Typically, this will be one.
- 
+2.	Select “OC Items to BC”.
 
- 
-6.	Acknowledge the trade cost by validating you have enough TSDT to cover the cost and then selecting “Accept”. The fee to move a recipe is usually cheap. This screen capture was from a level 2 mace I moved, so that cost a little more.
- 
+![OC to BC screen 1](./images/images_crafting_guide/oc_to_bc_screen_01.jpg "OC to BC screen 1")
 
-7.	You will see a message telling you to accept the trade in your Enjin Wallet.
- 
-8.	Using your phone, open the Enjin wallet application. From the main menu select requests. Select “Confirm Create Trade” and enter your password when prompted. Be sure to do this before proceeding to the next step in the game. If you click Proceed in the game first and are not fast enough to approve the trade request in Enjin, the game will prompt you to approve the trade before it advances to the next step.
- 
+3.	Select the type of items you want to move, accessory, armor, recipe or weapon.
 
-9.	In the game, select “Proceed” to move forward with the trade. You will see a confirmation message saying the trade is in progress. 
-10.	The game says the trade will complete within 2 minutes. I have had it take quite a bit longer (20 minutes +). Be patient. Once the trade is complete you will get a confirmation on your phone and the item will show up as a BC asset.
-11.	The recipe is still in your in-game inventory, but now it also shows up in your Enjin Wallet as an asset.
+![OC to BC screen 2](./images/images_crafting_guide/oc_to_bc_screen_02.jpg "OC to BC screen 2")
+
+4.	Select the item you want to move to BC.
+
+5.	Acknowledge the cost of the trade.
+
+![OC to BC screen 3](./images/images_crafting_guide/oc_to_bc_screen_03.jpg "OC to BC screen 3")
+
+6.	You will see a series of messages and then a confirmation message reporting the transaction was successful and the item will be available in a few minutes.
+
+At this point the item is in your Game Wallet so be sure to send it to your personal wallet by opening the main Menu, Wallet, and selecting "Transfer NFT's to Personal Wallet".
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
@@ -223,7 +217,7 @@ There are armor repair toolkits and weapon repair toolkits. You need to use the 
 
 ## Blockchain Enchanting
 
-Everything I've told you so far works great as long as the item is OC or in your Game Wallet. Keep this in mind when you are crafting. Whenever possible you probably want to apply enchants and specializations before you move the item to BC. 
+Everything I've told you so far works great as long as the item is OC or in your Game Wallet. Keep this in mind when you are crafting. Whenever possible you probably want to apply enchants and specializations before you move the item to BC. This also means if you plan to enchant or specialize an item, it doesn't make sense to craft it BC to start with.
 
 You can still enchant and modify the specialization for BC items (repair is obviously not necessary) at a station in Enjinville. A few extra steps are required first. 
 
@@ -268,9 +262,10 @@ The process is the same for either enchants or specializations.
 
 1. Press "F" to interact with the station. In this case you are interacting with the table.
 
+2. Select the scroll you wish to use. In this example I'm using a level 2 armor enchant.
+
 ![BC enchant screen 1](./images/images_crafting_guide/bc_enchant_screen_1.jpg "BC enchant screen 1")
 
-2. Select the scroll you wish to use. In this example I'm using a level 2 armor enchant.
 3. Acknowledge the message the BC item must be in your game wallet.
 
 ![BC enchant screen 2](./images/images_crafting_guide/bc_enchant_screen_2.jpg "BC enchant screen 2")
@@ -279,8 +274,19 @@ The process is the same for either enchants or specializations.
 
 ![BC enchant screen 3](./images/images_crafting_guide/bc_enchant_screen_3.jpg "BC enchant screen 3")
 
-5. 
+5. Select the item you want to enchant. This screen displays the items in your Game Wallet that can be enchanted by this scroll. If the item isn't visible, then you chose the wrong enchant scroll or the item isn't in your Game Wallet. 
 
+![BC enchant screen 4](./images/images_crafting_guide/bc_enchant_screen_4.jpg "BC enchant screen 4")
+
+The enchant process will now start. You will see a series of messages as the enchant proceeds ending with a message the enchant was successful (hopefully!) and the item will appear in a few minutes. Remember, this process actually destroys the original item and creates a new item with the new stats, so it takes a few minutes.
+
+If the item doesn't appear in your inventory within 5 minutes, you probably need to reschronize your wallet with the game. You can do this by clicking the small chest icon below your mana indicator.
+
+![Wallet syncronize icon](./images/images_crafting_guide/wallet_synch_icon.jpg "Wallet synchronize icon")
+
+As you can see the item is now visible in my inventory with +1. 
+
+![Enchanted NFT](./images/images_crafting_guide/chest_of_apocalypse_enchanted+1.jpg "Chest of Apocalypse +1")
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
@@ -331,14 +337,35 @@ The final limitation is how many times each day your recipes can be used by othe
 There is no limitation on how much you can craft each day using your own recipes. If you have the materials, craft away!
  
 Before you can rent out a recipe, you need to move it from OC to BC. We discussed how to do this in the section [earlier in this guide](#moving-any-item-from-oc-to-bc). Once your BC recipe is ready to list, use the following instructions to make it available to other players.
-1.	At the forge press “F”.
-2.	Select “Blockchain Blacksmith’s Market”.
-3.	Select “Add Recipe Listing”.
-4.	Select “Accept” to acknowledge the recipe you want to rent out is BC.
-5.	Select the recipe you want to list.
-6.	Select the fee for using your recipe. The white bar is a slider, so to increase the amount use the mouse to slide the bar to the right until your price is set. The select “Accept”.
-7.	Once the listing is complete you will see a confirmation message.
+1. Go to Enjinville.
+2. At the forge press “F”.
+3. Select “Blacksmith Service Station”.
+
+![Blacksmith listing screen 1](./images/images_crafting_guide/blacksmith_listing_screen_01.jpg "Blacksmith listing screen 1")
+
+4. Select “List your own (BC) Recipe”.
+
+![Blacksmith listing screen 2](./images/images_crafting_guide/blacksmith_listing_screen_02.jpg "Blacksmith listing screen 2")
+
+5. Accept the conditions.
+
+![Blacksmith listing screen 3](./images/images_crafting_guide/blacksmith_listing_screen_03.jpg "Blacksmith listing screen 3")
+
+6. Select the recipe you want to list.
+7. Select the fee for using your recipe. The white bar is a slider, so to increase the amount use the mouse to slide the bar to the right until your price is set. The select “Accept”.
+
+![Blacksmith listing screen 4](./images/images_crafting_guide/blacksmith_listing_screen_04.jpg "Blacksmith listing screen 4")
+
+8. Once the listing is complete you will see a confirmation message.
+
+Now your recipe is available to other players for the fee you specified. When your listing gets used, you will see a message in your Enjin wallet showing how much ENJ you received.You will also get an email telling you which recipe was used.
  
+[Back to top](#kcs-game-guides---crafting-guide)
+
+# Crafting on the Blacksmith with another player's recipe
+
+
+
 [Back to top](#kcs-game-guides---crafting-guide)
 
 # Cooking
