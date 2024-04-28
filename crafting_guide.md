@@ -109,7 +109,7 @@ The game wallet is a transitory space. It's more of a temporary holding area rat
 
 If you want to sell an item to another player or list a recipe on the Blacksmith Service, you must first move the item from OC to BC. This same basic process applies to moving any item from OC to BC, with minor variations that should be self-evident. 
 
-1.	Go to Enjinville and look for the OC to BC Door.
+1.	Go to Enjin Ville and look for the OC to BC Door.
 
 ![OC to BC door](./images/images_crafting_guide/oc_to_bc_door.jpg "OC to BC door")
 
@@ -138,13 +138,13 @@ At this point the item is in your Game Wallet so be sure to send it to your pers
 You have the option of crafting an item directly to the blockchain. When the item is created, you can choose to directly list it for sale, or you can use it in game once you sync your wallet. While crafting OC is free, BC crafting is not. You have to pay a fee to mint the item on the blockchain, just as you would if you crafted the item OC and then later wanted to move it from OC to BC. Remember, you always have to pay when an item is added to the blockchain.
 BC crafting uses OC mats. You don't have to move the mats to BC first. The mats will be consumed from your inventory and destroyed in the crafting process.
 
-BC crafting can't be down at the Blacksmith's forge in town. You'll need to travel to Enjinville, which is just North of Aligren. 
+BC crafting can't be down at the Blacksmith's forge in town. You'll need to travel to Enjin Ville, which is just North of Aligren. 
 
-![Enjinville entrance](./images/images_crafting_guide/enjinville_entrance.jpg "Enjinville Entrance")
+![Enjin Ville entrance](./images/images_crafting_guide/Enjin Ville_entrance.jpg "Enjin Ville Entrance")
 
-In Enjinville you will find a Blacksmith's Forge similar to the one in each town but with some extra options. 
+In Enjin Ville you will find a Blacksmith's Forge similar to the one in each town but with some extra options. 
 
-![Enjinville Forge](./images/images_crafting_guide/enjinville_forge.jpg "The forge in Enjinville")
+![Enjin Ville Forge](./images/images_crafting_guide/Enjin Ville_forge.jpg "The forge in Enjin Ville")
 
 1. Press "F" to use the forge and you will see the following screen.
 
@@ -219,7 +219,7 @@ There are armor repair toolkits and weapon repair toolkits. You need to use the 
 
 Everything I've told you so far works great as long as the item is OC or in your Game Wallet. Keep this in mind when you are crafting. Whenever possible you probably want to apply enchants and specializations before you move the item to BC. This also means if you plan to enchant or specialize an item, it doesn't make sense to craft it BC to start with.
 
-You can still enchant and modify the specialization for BC items (repair is obviously not necessary) at a station in Enjinville. A few extra steps are required first. 
+You can still enchant and modify the specialization for BC items (repair is obviously not necessary) at a station in Enjin Ville. A few extra steps are required first. 
 
 Pop quiz time! If you have an item that is BC, which wallet is this in? If you said your personal wallet, you are 100% correct. If you missed this, go back and reread [a tale of two wallets](#a-tale-of-two-wallets). You'll thank me later.
 
@@ -254,9 +254,9 @@ Since the item is in your personal wallet the attributes are locked and it can't
 At this point the item is no longer visible in your personal wallet because it's been moved to the Game Wallet. 
 
 ## Enchant or Specialize the item
-If you're not there already, you need to get to the BC Enchanting station in Enjinville.
+If you're not there already, you need to get to the BC Enchanting station in Enjin Ville.
 
-![Enchanting station in Enjinville](./images/images_crafting_guide/enjinville_bc_enchanting_station.jpg "The BC enchanting station in Enjinville")
+![Enchanting station in Enjin Ville](./images/images_crafting_guide/Enjin Ville_bc_enchanting_station.jpg "The BC enchanting station in Enjin Ville")
 
 The process is the same for either enchants or specializations.
 
@@ -336,8 +336,8 @@ The final limitation is how many times each day your recipes can be used by othe
 
 There is no limitation on how much you can craft each day using your own recipes. If you have the materials, craft away!
  
-Before you can rent out a recipe, you need to move it from OC to BC. We discussed how to do this in the section [earlier in this guide](#moving-any-item-from-oc-to-bc). Once your BC recipe is ready to list, use the following instructions to make it available to other players.
-1. Go to Enjinville.
+Before you can rent out a recipe, you need to move it from OC to BC. We discussed how to do this earlier in this guide in the section [moving any item from oc to bc](#moving-any-item-from-oc-to-bc). Once your BC recipe is ready to list, use the following instructions to make it available to other players.
+1. Go to Enjin Ville.
 2. At the forge press “F”.
 3. Select “Blacksmith Service Station”.
 
@@ -364,7 +364,26 @@ Now your recipe is available to other players for the fee you specified. When yo
 
 # Crafting on the Blacksmith with another player's recipe
 
+Sometimes you just don't have the recipe you want or need. When this happens rent one from another player! The Blacksmith Service has an option where players can share access to their recipes, for a fee of course. If you want to use this service, you need to go to Enjin Ville.
 
+1. Go to the Blacksmith's Forge and press "F".
+
+![Enjin Ville Blacksmith's Forge](./images/images_crafting_guide/enjinville_forge.jpg "Enjin Ville Blacksmith's Forge")
+
+2. From the main menu select "Blacksmith Service Station".
+
+![Blacksmith Service screen 1](./images/images_crafting_guide/bc_crafting_screen_01.jpg "Blacksmith Service screen 1")
+
+3. Select "Craft via the Blacksmith Service"
+
+![Blacksmith Service screen 2](./images/images_crafting_guide/bc_enchant_screen_2.jpg "Blacksmith Service screen 2")
+
+4. Select whether you want to craft BC or OC.
+
+![Rented recipe crafting screen 1](./images/images_crafting_guide/rented_recipe_crafting_01.jpg "Rented recipe crafting screen 1")
+
+5. You will be presented with a list of recipes that are available along with the cost to use them. Select the recipe you want from this screen.
+6. You will be presented with the list of ingredients. Ensure you have all the necessary materials and select "Create". As long as you have the materials and enough ENJ to cover the fees, the item will be crafted just as if you were crafting with your own recipe.
 
 [Back to top](#kcs-game-guides---crafting-guide)
 
