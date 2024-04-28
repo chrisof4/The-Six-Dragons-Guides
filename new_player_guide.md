@@ -10,6 +10,9 @@ KC's Game Guides - New Player Guide - Start Here!
 - [Welcome to Nemberus!](#welcome-to-nemberus)
 - [Daily Quests](#daily-quests)
 - [Where is everybody?](#where-is-everybody)
+  - [Multiplayer Marketplace](#multiplayer-marketplace)
+  - [Rift chests and rift bosses](#rift-chests-and-rift-bosses)
+- [Daily chests](#daily-chests)
 - [Open World Bosses](#open-world-bosses)
 - [Dragons!](#dragons)
 - [Dragon Mounts!](#dragon-mounts)
@@ -84,7 +87,25 @@ Be sure to stand close to the portal so that you save it as a location. As you t
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
 # Where is everybody?
-The Six Dragons will eventually be a multi-player game, but for now it is single player only.
+The Six Dragons will eventually be a multi-player game, but for now it is single player only. The game does have two multiplayer features already enabled.
+
+## Multiplayer Marketplace
+
+The first of these is the multiplayer marketplace. We'll discuss the details of this feature later in this guide. For now just know this is a way to buy and sell items between players within the game.
+
+## Rift chests and rift bosses
+
+The world map is divided into grid squares. Each grid square has it's own coordinate. You can find the current grid square by looking in the upper right corner. It will be something like "2,7".  As all players gather resources and fight creatures in a given square the completion percentage increases. You can check the completion percentage for the squares by pressing "B". For some grid squares, when the percentage reaches 100%, either a rift chest or a rift boss will spawn. Once the rift chest or boss spawns it will be visible for all players, but it doesn't last very long. You have 10 minutes to find them before they are gone again. 
+
+The rift chests are just a chest you can loot once you find it. These have the potential to yield the same type of reward as killing a world boss. The rift boss is a different story. This is a world boss with a huge amount of health and a mean temper. Be ready for a very tough fight. The good news is every player can help kill this boss, so you don't have to do this alone. The boss's health pool is shared across all the player instances. Each person will see the boss in their own instance and the boss's level will be adjusted in difficulty to match the individual player. While you are fighting and doing damage, multiple other people can also be fighting and doing damage. Once the boss is killed, rewards are granted based on how much damage each player was responsible for.
+
+You can see the location of the rift chests and rift bosses by looking at the world map. The chest locations will be shown with a yellow diamond. The rift bosses will be shown with a purple diamond. If a square doesn't have either of these, then nothing happens when the completion for that grid reaches 100%.
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Daily chests
+
+As you wander through the world, eventually you will come across a daily chest. When you get near a chest you will hear tinkly music. As you get closer the music gets louder. These chests always spawn in the same locations and can be looted once every 24 hours. They yield a small amount of gold that increases as you level up and a random assortment of other items like health and mana potions, enchant scrolls and specialization scrolls. The items in the chests match your player level, not the level of the grid square, so it can be worth your while to loot all the chests each day.
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
