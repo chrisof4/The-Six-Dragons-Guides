@@ -14,6 +14,9 @@ KC's Game Guides - New Player Guide - Start Here!
 - [Dragons!](#dragons)
 - [Dragon Mounts!](#dragon-mounts)
 - [Arenas/Dungeons](#arenasdungeons)
+  - [Dungeons](#dungeons)
+  - [Arenas](#arenas)
+- [Tents](#tents)
 - [OC (off chain) vs. BC (blockchain)](#oc-off-chain-vs-bc-blockchain)
 - [Free To Play](#free-to-play)
 - [Have some class!](#have-some-class)
@@ -59,13 +62,13 @@ As you move around the map keep an eye out for resources you can harvest.
 
 The big rocks can be mined for metal. The trees can be harvested for wood. There are certain plants that can be harvested for, well, plants. You harvest these by standing very close and pressing “F”. If you are lucky, you will get a perfect item which is used for higher quality crafting. You can see your gold and other items in your inventory by pressing “I”.
 
-In addition to resources gathered for crafting, there are resources gathered to make buffs. Be on the lookout for wild game such as boar, deer, and rabbits. These won't attach you, but if you kill these, you can loot raw meat. You should also look for mushrooms you can gather.
+In addition to resources gathered for crafting, there are resources gathered to make buffs. Be on the lookout for wild game such as boar, deer, and rabbits. These won't attack you, but if you kill these, you can loot raw meat. You should also look for mushrooms you can gather.
 
 ![mushrooms](./images/images_new_player_guide/Mushrooms%202.jpg "mushrooms")
 
 The mushrooms and raw meat can be cooked in town to make buffs. When you consume these buffs, you get a boost to a specific stat for a short period of time. You’ll need wood resources to build a fire, and you need to build a new fire for each item you want to cook, so be sure to chop lots of trees during your travels if you plan on crafting buffs. You can read more about the different buffs and how to make them in the crafting guide.
 
-Pay attention to what area you are in. This is visible in the upper right corner. The starting area is level 1-5. There is no visible boundary between the difficulty areas, so it is very easy to get into the next level area which is 6-10. These will be too tough for you until you level up, so stay in the 1-5 area for now.
+Pay attention to what area you are in. This is visible in the upper right corner. The starting area is level 1-5. There is no visible boundary between the difficulty areas, so it's very easy to get into the next level area which is 6-10. These will be too tough for you until you level up, so stay in the 1-5 area for now.
 When you eventually die, you will be teleported back to Aligren. There is no penalty for dying. You just get teleported back to town.
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
@@ -126,7 +129,9 @@ If your wallet is a little fatter, the dragons become more rare and fly higher a
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
 # Arenas/Dungeons
-Now the grind begins. Go a short distance from the town until you begin seeing monsters (spiders, skeletons, etc.) and kill them. This generates experience and gold. You need to keep doing this until you get an arena crystal or a portal key. As you roam the map, you will see some big floating rings and some platforms you can stand on.
+Now the grind begins. Go a short distance from the town until you begin seeing monsters (spiders, skeletons, etc.) and kill them. This generates experience and gold. You need to keep doing this until you get an arena crystal or a dungeon key. 
+
+As you roam the map, you will see some big floating rings and some platforms you can stand on.
 
 ![uncommon arena](./images/images_new_player_guide/Arena%20entrance.jpg "Uncommon (green) arena entrance")
 
@@ -139,13 +144,27 @@ The platforms are the entry to arenas and the rings are the entry to dungeons. T
 <span style="color:purple">PURPLE – EPIC</span> \
 <span style="color:yellow">YELLOW – LEGENDARY</span>
 
+A green arena crystal will get you into a green arena. A green dungeon key will get you into a green dungeon. As you loot crystals and keys, use these to access arenas and dungeons of the same color. The arena and dungeon portals are scattered all around the map, so just explore and you will find them. Also, the locations of the arenas and portals move every time you log in and often when you teleport, so you must hunt down the current location of an arena or dungeon that matches the crystals and keys you have on hand.
+
 The difficulty of the monsters inside doesn’t change depending on the arena/dungeon type, but the better-quality arenas/dungeons have a higher chance of dropping better loot. The bosses don’t always drop loot, so as disappointing as it is, don’t be surprised if there is no reward after killing one.
 
-Arenas are quick. There is one boss in a room which you need to kill. Once you are done, you use the portal to leave the arena. Dungeons are bigger and have many monsters to kill before you locate and kill the boss. There is a mini boss called the Troll guard. You need to find and kill him to unlock the gate to the main boss. There is a quest given at the beginning of a dungeon and when you kill the boss you get a quest relic which can be traded at the vendor in town. A green arena crystal will get you into a green arena. A green portal key will get you into a green dungeon. As you loot crystals and keys, use these to access arenas and dungeons of the same color. The arena and dungeon portals are scattered all around the map, so just explore and you will find them. Also, the locations of the arenas and portals move every time you log in and often when you teleport, so you must hunt down the current location of an arena or dungeon that matches the crystals and keys you have on hand.
+## Dungeons
 
-When you get into a dungeon, don’t just rush to the end and kill the boss. Dungeons are a great place to find a lot of monsters that count toward your daily quests as well as earn experience and gold coins. The more things you kill, the greater your chance to loot OC items. Also, you will find gold and purple ore scattered through the dungeon. These are valuable crafting items and can only be found in the dungeons. Dungeon keys are hard to come by, especially as your experience level goes up, so strip those dungeons clean!
+When you enter a dungeon you will have to choose from one of 3 doors. The green door is the easy path, the yellow door is more difficult, and the red door is the most difficult. Choose wisely, as once you enter a path it locks behind you and the only way out is success...or death. I recommend the easy path when you first start out. As you level up and get better gear you will be able to take the more difficult paths. 
 
-This is a good time to talk about tents. You can buy tents from the vendor in town. The cheapest one is Red and costs 100,000 gold. You can put your tent someplace far from town and use any portal to instantly jump to it. The tent will stay where you put it until you pick it up again. It even stays put when you exit the game.
+Each dungeon has a mini boss called the Troll guard. You need to find and kill him to unlock the gate to the main boss. There is a quest given at the beginning of a dungeon and when you kill the main boss you get a quest relic which can be traded at the vendor in town. 
+
+Dungeons are a great place to find a lot of monsters that count toward your daily quests as well as earn experience and gold coins. The more things you kill, the greater your chance to loot OC items. Also, you will find gold and purple ore scattered through the dungeon. These are valuable crafting items and can only be found in the dungeons. Dungeon keys are hard to come by, especially as your experience level goes up, so strip those dungeons clean!
+
+## Arenas
+
+Arenas are quick. There is one boss in a room which you need to kill. Once you are done, you use the portal to leave the arena. There is no quest and no other monsters. 
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Tents
+
+This is a good time to talk about tents. You can buy tents from the vendor in town. The cheapest one is Red and costs 100,000 gold. You can put your tent someplace far from town and use any portal to instantly jump to it. The tent will stay where you put it until you pick it up again. It even stays put when you exit the game. You can also use your camp to make buffs.
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
@@ -156,7 +175,7 @@ This is a good time to talk about tents. You can buy tents from the vendor in to
 
 While an item exists off chain, it can only exist inside the game. Let’s assume you loot an Uncommon (green) chest piece. It will have better stats than the common armor, so it’s advisable to use it. However, you might want to do some planning first. If you just equip the armor piece it will become bound to you. Also, OC items incur wear as they are used and will eventually need to be repaired. Alternatively, if you don’t equip the item and you leave it unbound, then you can sell it to another player on the multiplayer marketplace.
 
-There is a 3rd option, which is to move the item to the blockchain. Items on the blockchain are referred to as BC items. They can’t be bound, they don’t decay and they can always be bought or sold to other players. Moving an item to BC is not free. You need to pay a fee to move items between from OC to BC. There is a vendor in town that will help you facilitate this transaction. If you want a better understanding of crypto currency as it relates to the game, be sure to read my Game Economy Guide for more information.
+There is a 3rd option, which is to move the item to the blockchain. Items on the blockchain are referred to as BC items. They can’t be bound, they don’t decay and they can always be bought or sold to other players. Moving an item to BC is not free. You need to pay a fee to move items between from OC to BC. There is a station in a town called Enjin Ville that will help you facilitate this transaction. If you want a better understanding of crypto currency as it relates to the game, be sure to read my Game Economy Guide for more information.
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
@@ -164,14 +183,14 @@ There is a 3rd option, which is to move the item to the blockchain. Items on the
 
 The Six Dragons is a free to play game. You don't have to purchase the game or buy a subscription to play. But, of course there are incentives to spending a little money. The most difficult way to play TSD is completely for free. You will have the lowest chance of getting good loot drops, the lowest chance of a critical craft and earn XP at the slowest rate. You can buy a 30 day subscription which provides you with extra benefits. There is also an option to purchase a lifetime VIP membership for a flat fee that will ensure you always have these extra benefits. Oh, and guess what? The lifetime VIP membership is an NFT meaning it is fully transferable and can be sold to other players if you decide you don't want it anymore!
 
-If you're wondering if you can play the game for free and loot items to sell and earn real world crypto with zero investment, the answer is no. There are no BC drops. Everything drops OC, so if you want to sell an item to another player for anything other than in-game gold, you'll need to spend a little bit of money to move the item to the blockchain first. By the time you hit level 11 you'll probably want to purchase some armor pieces and maybe a better weapon to make the grind a little easier. 
+If you're wondering if you can play the game for free, and loot items to sell, and earn real world crypto with zero investment, the answer is no. There are no BC drops. Everything drops OC, so if you want to sell an item to another player for anything other than in-game gold, you'll need to spend a little bit of money to move the item to the blockchain first. By the time you hit level 11 you'll probably want to purchase some armor pieces and maybe a better weapon to make the grind a little easier. 
 
 Whether it's a crypto game or not, most gaming experiences are better if you spend some money. The difference is that you can recoup much of your initial investment by selling items to other players as you outgrow them, or as you craft or loot them. What other game lets you do that?
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
 # Have some class!
-Once you get to level 2 or 3, it is time to choose a class. There are only 3 main classes right now, wizard, warrior, and cleric. You can see the classes and their respective skill tree by pressing “L”. You earn AP as you level up and you can spend the AP on different skills.
+Once you get to level 2 or 3, it is time to choose a class. There are only 2 main classes right now, wizard and warrior. There is also a cleric skill tree, but cleric isn't a standalone class. Instead the cleric skills are supplemental to your main class. You can see the classes and their respective skill tree by pressing “L”. You earn AP as you level up and you can spend the AP on different skills.
 
 Warrior may be the best choice for beginners, but, you do you! As you build your skills look for the ones that grant a warrior passive bonus. These stack and make a huge difference in your damage output and overall survivability. Each class has its own passive skills, so focus on getting one or two passives as early as you can before spending points in other classes.
 
@@ -186,7 +205,8 @@ Your character’s attributes are mostly what they sound like, but you should be
 
 **MP = Mana** - Mana is used to power spells and abilities. Just like HP, this pool will grow larger as you level up. When this gets to zero, you will be limited to your basic attack until you generate more mana.
 
-**STR = Strength** - This determines how powerful your physical attacks are and how much physical damage you can do.
+**STR = Strength** - This determines how powerful your physical attacks are and how much physical damage you can inflict.
+
 **DEF = Defense** – This reduces the amount of physical damage your character takes from enemy attacks.
 
 **INT = Intelligence** – This determines how powerful your magic skills are and how much damage or healing you can do.
@@ -208,7 +228,7 @@ So, I know someone reading this is screaming, “KC, there are 4 sections in the
 
 More good news, everyone is a blacksmith! The blacksmith skills use BP which you earn from crafting. The topic of crafting is too complex for this guide, so I wrote a separate guide dedicated to the topic, but here are the basics. Before you can craft, you need to loot a recipe. **Not a pattern.** Patterns are just one of the materials required for each recipe. Each recipe requires a certain number of harvested resources and some type of OC item such as gems, matter, or essence. For now, try to build up a collection of these resources in your inventory until you eventually loot a recipe. Recipes are a very rare drop and are potentially some of the most valuable in the game, so be patient.
 
-Once you have a recipe, visit the blacksmith's forge to see the list of materials required. Each town has their own blacksmith's forge.
+Once you have a recipe, visit the Blacksmith's Forge to see the list of materials required. Each town has their own Blacksmith's Forge.
 
 ![recipe material list](./images/images_new_player_guide/Crafting%20Overview.jpg "List of materials needed to craft a Tyrannical Mace")
 
@@ -225,7 +245,7 @@ When you get to the dock, look for the quest giver and interact with them to tak
 
 ![fishing quest NPC](./images/images_new_player_guide/Fishing%20Quest%20Quest%20Give.jpg "Quest giver NPC for the fishing quest")
 
-Once you accept the quest it will be added to your quest journal. You can examine this by pressing “J”. If you examine the quest, you see the following items need to be gathered:
+Once you accept the quest it will be added to your quest journal. You can examine this by pressing “J”. If you examine the quest, you will see the list of items that need to be gathered.
 
 The root wood comes from killing the Root King. Once you kill him you can loot the root wood. The rabbit fur comes from killing rabbits, and the antlers come from killing stags. These are relatively plentiful so you should be able to gather these materials quickly.
 
