@@ -7,6 +7,8 @@ KC's Game Guides - New Player Guide - Start Here!
  
 - [KC's Game Guides - New Player Guide - Start Here!](#kcs-game-guides---new-player-guide---start-here)
 - [Introduction](#introduction)
+- [Installing the game](#installing-the-game)
+- [Create your character](#create-your-character)
 - [Welcome to Nemberus!](#welcome-to-nemberus)
 - [Daily Quests](#daily-quests)
 - [Where is everybody?](#where-is-everybody)
@@ -22,6 +24,7 @@ KC's Game Guides - New Player Guide - Start Here!
 - [Tents](#tents)
 - [OC (off chain) vs. BC (blockchain)](#oc-off-chain-vs-bc-blockchain)
 - [Free To Play](#free-to-play)
+- [Link Your Enjin Personal Wallet](#link-your-enjin-personal-wallet)
 - [Have some class!](#have-some-class)
 - [Player Attributes](#player-attributes)
 - [Crafting basics](#crafting-basics)
@@ -35,13 +38,51 @@ This is a guide for people just starting to play The Six Dragons. Much of this i
 
 This is a very exciting time in the history of the game. After 5 years of development the game has now reached the production release. Even so, this is a new game and you may still find bugs. When you see a bug, report it in-game by pressing F7. Alternatively, you can report the bug in the bug-reporting section on [Discord](http://discord.com) when using F7 is not possible (such as when the game crashes, etc.)
 
-Speaking of [Discord](http://discord.com), there is no mechanism for communicating with other players in the game, so I strongly recommend installing [Discord](http://discord.com) and joining [The Six Dragons channel](https://discord.com/channels/568545477415534643/572371055235039264). This is the place to get the latest news and also ask questions.
+Speaking of [Discord](http://discord.com), there is no mechanism for communicating with other players in the game, so I strongly recommend installing [Discord](http://discord.com) and joining . This is the place to get the latest news and also ask questions.
 
 If you want a brief history of how the game got started, I highly recommend this article from the founder and CEO, Savas Lazopoulos (SL in Discord).
 
 [The Six Dragons: Integrating Blockchain in 48 Hours](https://enjin.io/blog/the-six-dragons-blockchain-integration)
 
 I hope you find this guide helpful.
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Installing the game
+
+The game is accessed through the Epic Games Launcher. You need to go to the [Epic Games Store](http://epicgames.com) and create an account. Look for the account icon in the upper right corner.
+
+_Epic Games Store Account Icon:_
+
+![Epic Games account icon](./images/images_new_player_guide/epic_games_account_icon.jpg "Epic Games account icon")
+
+_Epic Games Store Signup Screen:_
+
+![Epic Games Signup](./images/images_new_player_guide/epic_games_signup.jpg "Epic Games signup")
+
+Once you are logged in use the search option at the top of the screen to search for The Six Dragons. From there you will have a button to install the game. This will also install the Epic Games launcher.
+
+![Epic Games TSD search](./images/images_new_player_guide/epic_games_tsd_search.jpg "Search for TSD in Epic Games")
+
+Once the game is installed open the Epic Games Launcher from your desktop or computer. The Six Dragons will be an option on the left. From there you can launch the game.
+
+![Launch TSD](./images/images_new_player_guide/epic_games_launcher.jpg "Launch The Six Dragons")
+
+[Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Create your character
+
+When you launch TSD you will always see this main screen. If this is your first time, then you need to select Register. From then on you will always use Login.
+
+![TSD Launch Screen](./images/images_new_player_guide/tsd_launch_screen.jpg "The Six Dragon launch screen")
+
+Select your nickname, which will be the name of your character. Then enter your email address and password. You will need to activate your account before you can login. Look for an email and follow the instructions.
+
+Login to the game. When you see the following screen select New Game. You will only do this the first time. From then on you will choose Load Game.
+
+![TSD Launch Screen 2](./images/images_new_player_guide/tsd_launch_screen_02.jpg "The Six Dragons New Game")
+
+Now it's time to choose the physical attributes of your your character. You only get to do this once, so choose wisely. Once your finished, the game will launch.
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
 
@@ -209,6 +250,16 @@ If you're wondering if you can play the game for free, and loot items to sell, a
 Whether it's a crypto game or not, most gaming experiences are better if you spend some money. The difference is that you can recoup much of your initial investment by selling items to other players as you outgrow them, or as you craft or loot them. What other game lets you do that?
 
 [Back to top](#kcs-game-guides---new-player-guide---start-here)
+
+# Link Your Enjin Personal Wallet
+
+I discuss the wallets in more detail in the crafting guide, but for now it's enough to know you should link your Enjin personal wallet with the game. If you don't have an Enjin wallet yet, head to [enjin.io](https://enjin.io) and create it.
+
+In the game press "M" to open the menu. Then select Wallet.
+
+Select Link Non-Custodial Wallet (Personal). Follow the instructions. Be sure to select the button "QR Scanned" when finished or you will have to repeat the process.
+
+When you've linked this successfully you will see an address in both your Game Wallet and your Personal Wallet. 
 
 # Have some class!
 Once you get to level 2 or 3, it is time to choose a class. There are only 2 main classes right now, wizard and warrior. There is also a cleric skill tree, but cleric isn't a standalone class. Instead the cleric skills are supplemental to your main class. You can see the classes and their respective skill tree by pressing “L”. You earn AP as you level up and you can spend the AP on different skills.
